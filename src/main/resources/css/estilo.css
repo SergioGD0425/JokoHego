@@ -1,0 +1,134 @@
+
+.pocion{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/Posion.png);
+	-fx-background-size: cover;	
+}
+.pocionvacia{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/PosionVacia.png);
+	-fx-background-size: cover;	
+}
+.LosaOscura{
+	-fx-background-image: url(../ImagenesGreenStyle/Fondos/LosaOscura.png);
+	-fx-background-size: cover;	
+}
+.Losa{
+	-fx-background-image: url(../ImagenesGreenStyle/Fondos/Losa.png);
+	-fx-background-size: cover;	
+}
+.Escaleras{
+	-fx-background-image: url(../ImagenesGreenStyle/Fondos/escaleras.png);
+	-fx-background-size: cover;	
+}
+.Cofre{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/cofreCerrado.png);
+	-fx-background-size: cover;	
+}
+.CofreAbierto{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/cofreAbierto.png);
+	-fx-background-size: cover;	
+}
+.Monster{
+	
+}
+.Cutulu{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/cutulu.png);
+	-fx-background-size: cover;	
+}.EscarabajoOro{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/EscarabajoOro.png);
+	-fx-background-size: cover;	
+}
+.Gormiti{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/gormiti.png);
+	-fx-background-size: cover;	
+}
+.Minik{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/minik.png);
+	-fx-background-size: cover;	
+}
+.Orco{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/orco.png);
+	-fx-background-size: cover;	
+}
+.Phantom{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/Phantom.png);
+	-fx-background-size: cover;	
+}
+.Rata{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/rata.png);
+	-fx-background-size: cover;	
+}
+.Serpiente{
+	-fx-background-image: url(../ImagenesGreenStyle/Enemigos/serpiente.png);
+	-fx-background-size: cover;
+}
+.popup{
+	-fx-background-color: #527f39 ;
+	-fx-text-fill:#D48423;
+	
+}
+.popup .label{
+	-fx-text-fill:orange;
+	-fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+	-fx-font-size:12pt;
+	-fx-font-weight: bold;
+}
+.damage{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/Espada.png);
+	-fx-background-size: cover;
+}
+.vida{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/Vida.png);
+	-fx-background-size: cover;
+}
+.danger{
+	-fx-background-image: url(../ImagenesGreenStyle/Fondos/FondoPeligroso.png);
+	-fx-background-size: cover;
+			
+}
+.danger .label{
+	-fx-text-fill:orange;
+	-fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+	-fx-font-size:16pt;
+	-fx-font-weight: bold;
+}
+.nivel{
+	-fx-background-image: url(../ImagenesGreenStyle/Fondos/Nivel.png);
+	-fx-background-size: cover;
+			
+}
+.nivel .label{
+	-fx-text-fill:red;
+	-fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+	-fx-font-size:16pt;
+	-fx-font-weight: bold;
+}
+.lvlenabled{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/lvlup.png);
+	-fx-background-size: cover;
+}
+.lvldisabled{
+	-fx-background-image: url(../ImagenesGreenStyle/Items/notlvl.png);
+	-fx-background-size: cover;
+}
+.character{
+	-fx-background-image: url(../ImagenesGreenStyle/Fondos/characterFondo.png);
+	-fx-background-size: cover;
+}
+
+.character .label{
+	-fx-text-fill:orange;
+	-fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+	-fx-font-size:12pt;
+	-fx-font-weight: bold;
+}
+.menuButton{
+	-fx-background-color: #aec440;
+	-fx-text-fill:#527f39;
+	-fx-effect: dropshadow( gaussian , #527f39 , 0,0,0,2 );
+	-fx-font-size:12pt;
+	-fx-font-weight: bold;
+}
+.menuButton:hover {
+	-fx-background-color: #527f39;
+	-fx-text-fill:white;
+}
