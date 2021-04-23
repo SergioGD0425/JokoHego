@@ -36,7 +36,7 @@ La información que aparece en pantalla es la siguiente:
 
 #### Explorar los niveles
 
-Mientras completas los niveles te podrás encontrar con enemigos que no podrás ignorar ya que si descubres nuevas casillas teniendo monstruos en pantalla te haran daño. **(piso actual * nº de enemigos)**
+Mientras completas los niveles te podrás encontrar con enemigos que no podrás ignorar ya que si descubres nuevas casillas teniendo monstruos en pantalla te harán daño. **(piso actual * nº de enemigos.)**
 
 #### Encontrar cofres
 
@@ -44,9 +44,9 @@ A lo largo de los diferentes niveles tienes una posibilidad de encontrar cofres 
 
 ![Screenshot_1](Screenshot_1.png)
 
-#### Utilizar la experencia
+#### Utilizar la experencia.
 
-Cada vez que mates un enemigo se te recompensará con experiencia, con esta podrás *aumentar el daño* o *aumentar la vida máxima*
+Cada vez que mates un enemigo se te recompensará con experiencia, con esta podrás *aumentar el daño* o *aumentar la vida máxima.*
 
 ![experi](experi.png)
 
